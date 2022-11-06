@@ -48,12 +48,7 @@ def powerball_info():
 
 
 def mega_info():
-    url = "https://www.megamillions.com/"
-    r = requests.get(url)
-    tree = html.fromstring(r)
-    numbers = []
-    for i in range(1, 6):
-        num = tree.xpath()
+    pass
 
 
 if __name__ == '__main__':
