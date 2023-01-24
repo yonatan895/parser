@@ -5,4 +5,4 @@ powerball parsing -> PASS
 
 megamillions parsing -> UNDER DEVELOPMENT
 
-Current deps: requests,lxml
+Current deps: requests,lxml,time,datetime,cssselect
